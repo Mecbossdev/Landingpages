@@ -7,12 +7,14 @@
 
 .white-bg {
   background: var(--white-color);
+  color: var(--primary-color);
+  
 }
 
 .main-content {
   max-width: 120rem;
   margin: 0 auto;
-  padding: var(--gap);
+  padding: 8rem var(--gap);
 }
 
 .section {
