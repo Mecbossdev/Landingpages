@@ -8,7 +8,6 @@
 .white-bg {
   background: var(--white-color);
   color: var(--primary-color);
-  
 }
 
 .main-content {
@@ -23,4 +22,9 @@
 
 .menu-spacing {
   height: 65px;
+}
+
+body .full-width {
+  width: 100%;
+  flex: 1 1 100%;
 }
